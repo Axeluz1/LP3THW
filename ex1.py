@@ -1,0 +1,7 @@
+print("Hello World!")
+print("Holissss otravez xd")
+print("I like typing this.")
+print("This is fucking shit.")
+print('Yay! Printing a fat cat.')
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this o eres gay')
