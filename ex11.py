@@ -1,0 +1,7 @@
+print("Cuantos años tienes?", end=' ')
+age = input()
+print("Cuanto Mides?", end=' ')
+height = input()
+print("Cuanto pesas?", end=' ')
+weight = input()
+print(f"Asi que, tu edad es {age}, y mides {height}, y pesas {weight}")
